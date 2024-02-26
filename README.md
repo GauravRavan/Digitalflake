@@ -8,3 +8,4 @@
 ![Screenshot (39)](https://github.com/GauravRavan/Digitalflake/assets/118911175/33b9efc1-25bb-42fa-92b2-6648b89c9077)
 ![Screenshot (41)](https://github.com/GauravRavan/Digitalflake/assets/118911175/7398cc04-ceba-4813-b103-3cf28efcc66a)
 ![Screenshot (40)](https://github.com/GauravRavan/Digitalflake/assets/118911175/f515d59d-cf47-4254-9e64-39a6e2fc79c3)
+![Screenshot (42)](https://github.com/GauravRavan/Digitalflake/assets/118911175/d462e6df-57ac-497a-a426-14cf523ae14f)
