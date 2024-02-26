@@ -1,6 +1,5 @@
 # Digitalflake
  
-![Screenshot (33)](https://github.com/GauravRavan/Digitalflake/assets/118911175/82973fb2-885d-40f1-bbe9-79f37b0c4a0a)
 ![Screenshot (34)](https://github.com/GauravRavan/Digitalflake/assets/118911175/9ce6b7f5-2c41-4e85-955c-f1edd07ac4f0)
 ![Screenshot (35)](https://github.com/GauravRavan/Digitalflake/assets/118911175/1c4db595-3ac3-48f2-a8e4-cd5174248d6f)
 ![Screenshot (36)](https://github.com/GauravRavan/Digitalflake/assets/118911175/b7081116-be6a-4e8f-a0f9-ef3e5e19de5a)
