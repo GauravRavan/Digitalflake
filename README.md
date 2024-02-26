@@ -1,4 +1,4 @@
-# Digitalflake
+# Hackathon Assignment
  
 ![Screenshot (34)](https://github.com/GauravRavan/Digitalflake/assets/118911175/9ce6b7f5-2c41-4e85-955c-f1edd07ac4f0)
 ![Screenshot (35)](https://github.com/GauravRavan/Digitalflake/assets/118911175/1c4db595-3ac3-48f2-a8e4-cd5174248d6f)
